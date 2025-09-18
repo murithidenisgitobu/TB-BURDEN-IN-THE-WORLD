@@ -1,8 +1,7 @@
 # `TB-BURDEN-IN-THE-WORLD`
 TB Burden analysis in the world
 
-![alt text](image.png)
-
+![alt text](image-1.png)
 # Tuberculosis Burden (1990‑2013)
 
 ## Overview
